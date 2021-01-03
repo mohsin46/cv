@@ -1,2 +1,2 @@
 # cv
-My first website using html only
+My first website
